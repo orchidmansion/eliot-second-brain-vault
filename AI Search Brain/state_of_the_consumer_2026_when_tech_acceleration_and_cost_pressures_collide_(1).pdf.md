@@ -1,0 +1,1035 @@
+# state of the consumer 2026_when tech acceleration and cost pressures collide (1).pdf
+
+- **State of the Consumer 2026: When tech acceleration and cost pressures collide **
+
+June 2026 
+
+The consumer is changing fast. Four trends—the tech-driven path  to purchase, the health revolution, the experience economy, and the resourceful consumer—will redefine the sector. Will brands keep up?
+
+# **Contents **
+
+**The new tech-driven path to purchase: How people discover and decide is changing rapidly **
+
+**The health revolution: Wearables and scientific breakthroughs are influencing consumer goals **
+
+**The experience economy: Consumers prioritize meaning  and memories **
+
+**The resourceful consumer: Sustained price pressure leads to savvier spending **
+
+- **3 **
+
+- **8 **
+
+- **12 **
+
+- **15 **
+
+CHAPTER 1 
+
+CHAPTER 2 
+
+CHAPTER 3 
+
+CHAPTER 4
+
+In today’s complex and fast-changing consumer landscape, two forces—the rapid advancement of technology and sustained cost consciousness—stand out for their breadth and persistence in shaping the sector. 
+
+Already, we are seeing that consumers’ path to purchase is increasingly complicated, brand influence is more diffuse, and the priority consumers place on value now cuts across income segments and categories. Scale within established channels is less powerful than it once was. Brands must consistently earn the right to be chosen by proving value across a more fragmented and mediated decision landscape. 
+
+These shifts are beginning to crystallize into broader behavioral patterns. Together, advances in technology and rising price sensitivity underpin four global trends that we believe will define the sector in the years ahead: the new tech-driven path to purchase, the health revolution, the experience economy, and the rise of the resourceful consumer. 
+
+Each trend is significant on its own; collectively, they are profoundly changing how consumers discover, decide, and spend. For instance, consumers are turning to wearable devices, AI, and DIY influencers for inspiration on how to live well and get more from their budgets. Companies need to understand each trend individually—and how they interact with one another—to shape an increasingly complex space. 
+
+Drawing on our ongoing consumer sentiment research and survey data1 across five markets, as well as insights from our global client work, we outline the strength and nature of these trends, examine how these trends are accelerating, and explore what they mean for consumer-facing business models. 
+
+1  The 2026 McKinsey State of the Consumer Survey garnered responses from 4,863 consumers from March 31 to April 8, 2026, in five countries: Brazil, France, Germany, the United Kingdom, and the United States.
+
+For years, digital tools have been changing the consumer purchase journey. According to our consumer survey, social media is now increasingly relevant across all stages of that journey and has become the most important channel for Gen Z. More recently, rapidly evolving AI models have begun to shape how people shop. We call the combined and growing impact of these channels the new tech-driven path to purchase. 
+
+Younger consumers are leading the shift. Twenty-eight percent of Gen Zers say they are already using gen AI tools for shopping (versus 16 percent of baby boomers), while 60 percent say they regularly use the “AI overview” at the top of traditional search platforms (versus 29 percent of baby boomers) (Exhibit 1).  And 23 percent of Gen Zers (compared with only 7 percent of boomers) say they discovered new brands on social media—less than the share who say they did so through a physical store (28 percent) but more than the share who say friends and family led to their brand discovery (18 percent). Social media becomes even more important for Gen Zers during purchase decisions. At that stage, 34 percent of Gen Zers (versus 16 percent of baby boomers) say social media plays a key role, far higher than any other channel (Exhibit 2). 
+
+Social media’s role in the consumer decision journey could continue to gain importance, particularly if social media platforms develop their own AI shopping agents. Another factor that will influence the uptake of social media and gen AI for shopping is consumer trust. Notably, across most channels used for product research, Gen Zers report lower levels of trust compared with baby boomers. And despite their widespread adoption of social media and gen AI, they are skeptical of both (Exhibit 3). 
+
+Meanwhile, innovations in search and AI are reshaping how consumers gather information online. Since 2023, overall open web traffic2 is down 8 percent. But this data only tells part of the story: Traditional search remains highly relevant, and overall search activity continues to grow, even if the number of searches per user declines. As AI-generated summaries and conversational interfaces evolve, the experience of using a search platform is changing rapidly. 
+
+2  Open web traffic is generated by people visiting a site directly or clicking through via a search engine. These also include total visit sessions on publisher websites that can be monetized via advertising (for example, news, media, and content sites), excluding traffic within closed ecosystems (for example, walled gardens, retail media networks, and CTV). 
+
+## **The new tech-driven path to purchase: How people discover and decide is changing rapidly**
+
+For consumers, this often means finding answers directly within AI-generated results and, subsequently, completing fewer clicks through to brand websites, retailer sites, and publishers. For brands, this reduces opportunities to influence decisions through traditional organic and paid search strategies. Historically, search has often served as a high-intent stage of the consumer journey—when consumers actively evaluate brands and options. As AI-generated results increasingly answer those questions directly, brands may have fewer opportunities to enter consumers’ consideration sets at the moment intent is expressed. 
+
+As a result, brands may need to place greater emphasis on shaping consumer perceptions upstream of purchase decisions. They also need to help shape the first- and third-party content that large language models (LLMs) draw on to position their products effectively within AI-enabled environments. When 
+
+Exhibit 1 Web <2026> <State of Consumer> Exhibit <1> of <9> 
+
+Consumers using at least 1 gen AI tool,1 % of respondents 
+
+Gen AI use, by age cohort and use case,2 % of respondents 
+
+1Question: “Which, if any, of the following gen AI tools have you personally used in the past 3 months? Google AI Overview (AI summary at the top of Google Search), Google Gemini, Microsoft Copilot, Perplexity, Claude (Anthropic), Grok (from X/Twitter), other (please specify), none of the above.” 
+
+2Question: “For which of the following use cases have you used gen AI tools (eg, ChatGPT, Google AI Overview, Gemini, Perplexity) in the past 3 months?” Topics asked about but not included in the chart: research and understand general topics, write and improve content, access real-time or trending information, create visuals and creative assets, plan and organize tasks. Source: ConsumerWise Global Sentiment Survey 2026, Feb 2026 (Gen Z, n = 2,769; millennial, n = 6,580; Gen X, n = 5,590; boomer, n = 5,245; overall, n = 20,184); countries included: Brazil, China, France, Germany, Italy, Japan, Mexico, Netherlands, Saudi Arabia, South Korea, Spain, Sweden, UAE, UK, and US 
+
+Gen AI use is more than twice as high for Gen Zers than baby boomers, while about a quarter of all consumers say they use gen AI for shopping. 
+
+McKinsey & Company 
+
+0 20 40 
+
+Boomer MillennialGen X 
+
+Overall 
+
+Gen Z 
+
+Boomer 
+
+Millennial 
+
+Gen X 
+
+Overall 
+
+Gen Z 
+
+16 
+
+27 
+
+23 
+
+22 
+
+28 
+
+14 
+
+26 
+
+19 
+
+22 
+
+26 
+
+8 
+
+26 
+
+18 
+
+19 
+
+26 
+
+10 
+
+21 
+
+16 
+
+18 
+
+21 
+
+Shopping Managing health and wellness Getting nancial advice 
+
+Planning trips and occasions 
+
+60 80 100 
+
+# **As AI-generated summaries and conversational interfaces evolve,  the experience of using a search platform is changing rapidly.**
+
+answering a user query, gen AI platforms aggregate information from a wide range of third-party sources—including online forums, reviews on retailer websites, blogs, and video platforms—making it harder for brands to control how they are presented. When those sources provide inconsistent or incomplete information, creating “signal dissonance,” AI models are less likely to reliably include or accurately represent a brand in their responses. 
+
+In consumer goods, a brand’s own website plays a limited role in how the brand is represented in gen AI results. Overall, only 1 percent of the sources cited by LLMs come from brand-owned websites (Exhibit 4).  Even among the ten most frequently cited websites—which together account for roughly 22 percent of all citations—brand websites make up to 10 percent. This highlights how diffuse the information ecosystem has become.3 
+
+Brand owners are therefore thinking hard about how they show up in this environment. They should seek to create visibility not only through traditional SEO but also within LLMs—an emerging capability often referred to as generative engine optimization (GEO). Best practices are beginning to surface: for example, ensuring that brand websites include clear, structured, and scannable content (such as FAQs and lists) and publishing detailed materials about products or services that were not previously public (such as clinical research or technical documentation). This also makes earned media and third-party validation more critical. Proactive efforts—such as strengthening public relations, ensuring accurate and consistent messaging across platforms, and having an active brand presence in forums where 
+
+3 Based on XEO360 data, October 2025 to May 2026. 
+
+Exhibit 2 Web <2026> <State of Consumer> Exhibit <2> of <9> 
+
+Sources for new brand discovery and purchase decision,1 % of respondents 
+
+Note: Figures may not sum to 100%, because of rounding. 1Question: “Thinking about the last time you discovered a new brand, where did you rst hear about/see it?” 2Question: “When you decided whether to purchase the brand, which channels inuenced you the most?” Source: McKinsey Customer Decision Journey Survey, Mar 3–10, 2026 
+
+Social media is Gen Zers’ most important source for brand discovery and purchase, whereas baby boomers continue to rely on stores. 
+
+McKinsey & Company 
+
+Gen AI response 
+
+Brand discovery1 
+
+Gen Z (n = 1,494) Boomers (n = 1,387) 
+
+Brand discovery 
+
+Purchase evaluation2 
+
+Purchase evaluation 
+
+Social media Review sitesDigital 
+
+Traditional 
+
+Traditional online search Online store Professional recommendation Friends and family recommendation Traditional ads In-store 
+
+3 
+
+23 
+
+4 
+
+9 
+
+28 
+
+4 
+
+7 
+
+10 
+
+52 
+
+20 
+
+3 32 3 
+
+4 
+
+16 
+
+14 
+
+31 
+
+14 
+
+4 
+
+16 
+
+18 
+
+6 
+
+34 
+
+12 
+
+21 
+
+7 
+
+7 
+
+14 
+
+5 6
+
+Exhibit 3 
+
+Web <2026> <State of Consumer> Exhibit <3> of <9> 
+
+Net level of trust on sources for product research,1 % 
+
+1Question: “How much did you trust each of the following sources when you research products and services?” Net trust represents dierence between top 2 boxes, “mostly trusted” and “completely trusted,” and bottom 2 boxes, “did not trust at all” and “mostly did not trust.” Source: McKinsey State of Consumer Survey, Mar 31–Apr 8, 2026 (n = 4,863); countries included: Brazil, France, Germany, UK, and US 
+
+Despite their growing role in product research, consumers don’t trust social media and gen AI as much as other sources. 
+
+McKinsey & Company 
+
+Oine channels 
+
+Direct digital channels 
+
+Algorithm-driven channels 
+
+Friends and family recommendation 
+
+Professional recommendation 
+
+Sales assistance advice 
+
+Traditional online search 
+
+Brand’s own online store 
+
+Online store 
+
+YouTube 
+
+Online reviews 
+
+Social media 
+
+Gen AI response 
+
+0 20 40 
+
+Gen Z (n = 929) Boomer (n = 1,448) 
+
+60 80 100 
+
+consumers are already discussing the brand—can help reinforce a clear, credible narrative that AI models are more likely to recognize and amplify. 
+
+New forms of advertising and brand participation will also emerge within AI-powered shopping experiences. Early experiments, such as Google’s Direct Offers pilot, allow brands to surface promotions directly within AI-generated recommendations. 
+
+Looking ahead, gen AI tools will become more widely used in the last stage of the consumer decision journey: completing purchases. The rise of AI-enabled purchases—known as agentic commerce—will introduce a “dual front door,” where consumers can complete their purchase journeys either through retailer AI tools or within gen AI platforms. Major commerce, technology, and payments companies— including Shopify, Amazon, and Walmart—are beginning to align around common standards for AI-enabled transactions, and over time, these standards could allow AI agents to move more easily across retailers, comparing products, applying loyalty benefits, and completing purchases on 
+
+# **Gen AI tools will become more  widely used in the last stage  of the consumer decision journey: completing purchases.**
+
+Exhibit 4 
+
+Web <2026> <State of Consumer> 
+
+xhibit <4A> of <9> 
+
+Source mix by category for large language model responses, 25 consumer-packaged-goods brands, % of total citations (n = ~2.6 million) 
+
+Note: Figures may not sum to 100%, because of rounding. Source: XEO360, Oct 2025–May 2026, data included 89,119 unique domains from UK and US, aggregated across ChatGPT, Gemini, Perplexity 
+
+For large language model queries about brands, the brands’ own websites drive just 1–2 percent of citations. 
+
+McKinsey & Company 
+
+Competitors/other brand websites Publishers and content 
+
+Retailers and e-commerce 
+
+ChatGPT 
+
+Gemini 
+
+Perplexity 
+
+Social media Reference content Review and comparison 
+
+Own brand website Other 
+
+30 23 18 8 
+
+40 20 
+
+100% 
+
+15 
+
+29 20 13 
+
+12 
+
+22 
+
+5 
+
+4 2 
+
+4 1 
+
+3 2 
+
+4 
+
+11 4 
+
+7 4 
+
+Web <2026> <State of Consumer> Exhibit <4B> of <9> 
+
+Top 10 cited sources for large language model responses, 25 consumer-packaged-goods brands, % of top 10 sources (n = ~2.6 million) 
+
+Source: XEO360, Oct 2025–May 2026, data included 89,119 unique domains from UK and US, aggregated across ChatGPT, Gemini, Perplexity 
+
+Considering just the top ten sources, brands’ own websites drive 3–10 percent of citations. 
+
+McKinsey & Company 
+
+Retailers Reddit 
+
+YouTube 
+
+ChatGPT 
+
+Gemini 
+
+Perplexity 
+
+Facebook Competitors Publishers and content 
+
+Comparison and review Own brand website 
+
+100% 
+
+26 1730 12 8 7 
+
+19 2 3 
+
+46 24 6 1014 
+
+39 34 3 
+
+consumers’ behalf. To that end, the performance gap between retailers with a mature digital presence and those without is likely to widen. 
+
+Finally, this trend has implications for the balance of power across the consumer sector. Large digital marketplaces and omnichannel retailers are moving quickly to embed AI into their platforms, further strengthening their position as discovery, research, and purchase destinations. For brands, this deepens an existing tension: While large retail platforms and marketplaces offer scale and conversion, they also limit direct access to consumer data and relationships. As AI use grows, brands will need to be more strategic about where they participate and where they seek to retain control.
+
+## **The health revolution: Wearables and scientific breakthroughs are influencing consumer goals **
+
+Health is becoming more important to consumers, and they’re defining it more broadly to include a range of dimensions—from heart health and cognitive function to sleep, stress, and gut health. In our survey, most consumers say these areas matter to them, yet less than half feel they are achieving their wellness goals, a finding that was most pronounced in Germany and France (Exhibit 5). 
+
+What is driving this expansion of health goals? One key factor is technology, which is making a broader range of consumer health topics accessible and measurable.4 
+
+Consumers can now use devices such as smartwatches, continuous glucose monitors, and fitness trackers to measure sleep quality, glucose levels, nutrient intake, and heart health in real time. A growing *number of them are doing so: Among consumers in our recent State of Food and Beverage report,  *75 percent of Gen Z and 73 percent of millennials report using such tools, compared with 55 percent of Gen X and 32 percent of baby boomers. (Related, 22 percent of consumers report using LLMs for health and wellness subjects, while this figure rises to 26 percent among Gen Z). As more consumers gain access to real-time health feedback through digital monitoring tools, they may make behavioral changes more quickly. Health-conscious consumers who see a lower “sleep score” on their wearable device after a night of drinks with friends, for instance, may be less likely to imbibe again soon. 
+
+GLP-1 medications are quickly gaining traction across geographies, too. Roughly one in six US households had at least one member who tried GLP-1s as of July 2024. These households reduced their grocery spend by about 6 percent within six months of adoption (although 34 percent of users stopped taking GLP-1s in less than six months and, on average, subsequently resumed their pre-adoption spending levels).5 More recent projections anticipate that 25 million people in the United States could  be on GLP-1 treatments by 2030.6 
+
+4  Consumers often also rely on social media for health and wellness information instead of medical providers. In a 2024 McKinsey survey, 59 percent of baby boomers reported turning to their doctors for health information, while only 42 percent of Gen Z did the same. Thirty-eight percent of Gen Zers said they turn to social media for health information. 
+
+5  Sylvia Hristakeva, Jura Liaukonyte, and Leo Feler, “The No-Hunger Games: How GLP-1 medication adoption is changing consumer food demand,” Cornell SC Johnson College of Business research paper, December 27, 2024. 
+
+6 “How demand for (and supply of) weight loss drugs is playing out in 2026,” JPMorgan Chase, February 27, 2026.
+
+In Brazil, GLP-1 medication uptake could accelerate as strong demand and patent expirations,  which occurred in March 2026, bring lower-cost options to market. In a March 2026 McKinsey survey, 35 percent of consumers in Brazil interested in GLP-1 medications say they are not currently using  them because of price concerns, while 44 percent say they would be more likely to use them if prices declined following patent expirations (we estimate the size of the GLP-1 market in Brazil to be about  $3 billion, including about three million consumers, conservatively). And in Europe, penetration remains more limited—estimated at around 2 percent7 of the population, reflecting lower drug availability, more constrained reimbursement environments, and, in some countries, lower obesity rates. 
+
+7  Thijs Geijer and Diederik Stadig, “Transformative or overhyped? The impact of weight-loss drugs on European food demand,” ING, March 20, 2026. 
+
+Exhibit 5 
+
+Sexual health 
+
+Skin and hair care 
+
+Weight management 
+
+Aging prevention/healthy aging 
+
+Gut health 
+
+Managing stress/anxiety 
+
+Mindfulness/mental health 
+
+Physical health and tness 
+
+Sleep health 
+
+Heart health 
+
+Cognitive function 
+
+36 
+
+36 
+
+43 
+
+42 
+
+48 
+
+52 
+
+53 
+
+53 
+
+55 
+
+60 
+
+58 
+
+33 
+
+38 
+
+35 
+
+36 
+
+34 
+
+31 
+
+31 
+
+33 
+
+32 
+
+27 
+
+30 
+
+19 
+
+19 
+
+16 
+
+15 
+
+15 
+
+13 
+
+12 
+
+12 
+
+11 
+
+11 
+
+10 
+
+12 
+
+7 
+
+6 
+
+7 
+
+3 
+
+4 
+
+3 
+
+2 
+
+2 
+
+2 
+
+2 
+
+Web <2026> <State of Consumer> Exhibit <5> of <9> 
+
+Importance of health area to consumers,1 % of respondents (n = 4,863) 
+
+Consumer sentiment toward achieving their wellness goals,2 % of respondents (n = 4,863) 
+
+Note: Figures may not sum to 100%, because of rounding. 1Question: “How important are each of the following areas of health and wellness to you?” 2Question: “Which of the following statements best describes how you feel about your wellness goals?” Source: McKinsey State of Consumer Survey, Mar 31–Apr 8, 2026 (n = 4,863); countries included: Brazil, France, Germany, UK, and US 
+
+Most consumers say multidimensional health is important to them, but fewer feel that they are meeting their wellness goals. 
+
+McKinsey & Company 
+
+Very important Moderately important Somewhat important Not important at all 
+
+Brazil 
+
+47 
+
+20 
+
+32 
+
+2 
+
+34 
+
+17 
+
+33 
+
+16 
+
+28 
+
+13 
+
+35 
+
+24 
+
+44 
+
+16 
+
+31 
+
+10 
+
+47 
+
+17 
+
+30 
+
+6 
+
+I am mostly/denitely achieving my wellness goals 
+
+I do not have any explicit wellness goals 
+
+I am not achieving my wellness goals 
+
+I am somewhat meeting my wellness goals 
+
+France Germany UK US
+
+For consumer companies, greater accessibility to real-time health data creates both risk and opportunity. As consumers become more discerning and results-oriented, growth for food and beverage players is shifting toward offerings that minimize trade-offs between taste, price, and function. These shifts are already showing up in what consumers choose to eat and drink. Again looking at our State of Food and Beverage research, roughly half of consumers across major markets say they are actively reducing their consumption of artificial ingredients, highly processed foods, sugar, and alcohol (Exhibit 6).  Meanwhile, consumers are also seeking foods associated with health and nutrition goals, including those rich in protein, fiber, and other nutrients. 
+
+Still, the impact of these trends extends far beyond food to a wide range of categories, from vitamins and supplements to fashion, fitness, beauty, and wellness services. New needs are emerging alongside new interventions and tools. For example, GLP-1 use has been linked to reduced muscle mass, spurring innovations aimed at preserving strength and bone density. Apparel incumbents and start-ups are creating weighted vests designed specifically for women, reflecting a growing demand for health solutions that are both targeted and tailored to specific physiological needs. 
+
+And as generalized notions of wellness give way to more specific demands driven by life stages and physiology, areas such as perimenopause, age-related testosterone declines, gut health, and metabolic aging—which are historically underaddressed—are gaining attention. In addition to creating value propositions that fulfill unmet needs, segmenting consumers according to their specific wellness approach is useful for brands. Our own wellness research points to five distinct consumer segments: 
+
+“maximalist optimizers,” who actively experiment with science-backed products and technologies to improve outcomes; “health traditionalists,” who tend to rely on established routines and familiar approaches to wellness; “health strugglers,” who value wellness but often feel dissatisfied with their progress and overwhelmed by the difficulty of achieving their goals; “confident enthusiasts,” who 
+
+Exhibit 6 Web <2026> <State of Consumer> Exhibit <6> of <9> 
+
+Share of respondents reporting reduction in consumption of products in the past 12 months, by region,1 % 
+
+1Question: “For each of these foods or ingredients, please share how much you are consuming them compared with 12 months ago.” Source: McKinsey Global Food and Beverage Survey, Dec 2025 (Brazil, n = 1,525; China, n = 1,521; France, n = 1,524; Germany, n = 1,520; India, n = 1,503; Japan, n = 1,515; Mexico, n = 1,514; Saudi Arabia, n = 1,515; UK, n = 1,517; US, n = 1,516) 
+
+About half of consumers say they avoid or limit their consumption of articial ingredients, alcohol, highly processed food, and sugar. 
+
+McKinsey & Company 
+
+Brazil 
+
+Articial avors 
+
+Articial sweetener Alcohol 
+
+Highly processed foods Sugar Fat 
+
+China 
+
+France 
+
+Germany 
+
+India 
+
+Japan 
+
+Mexico 
+
+Saudi Arabia 
+
+UK 
+
+US 
+
+60 
+
+59 
+
+63 
+
+56 
+
+56 
+
+30 
+
+59 
+
+55 
+
+54 
+
+53 
+
+55 
+
+62 
+
+64 
+
+55 
+
+53 
+
+30 
+
+59 
+
+50 
+
+53 
+
+55 
+
+61 
+
+53 
+
+59 
+
+53 
+
+59 
+
+32 
+
+57 
+
+n/a 
+
+49 
+
+54 
+
+68 
+
+53 
+
+70 
+
+49 
+
+44 
+
+20 
+
+61 
+
+43 
+
+56 
+
+55 
+
+56 
+
+50 
+
+58 
+
+50 
+
+46 
+
+21 
+
+49 
+
+51 
+
+50 
+
+47 
+
+55 
+
+46 
+
+52 
+
+42 
+
+42 
+
+24 
+
+41 
+
+43 
+
+42 
+
+42
+
+prioritize wellness and fitness and are self-assured in their routines; and “wellness shirkers,” who engage less actively with wellness overall. Maximalist optimizers, who are more likely to be Gen Z and millennials, represent about 25 percent of wellness consumers and more than 40 percent of market spend. 
+
+For companies, delivering on consumer needs across segments will require faster and more iterative concept development and more precise consumer segmentation—capabilities that AI can help support. 
+
+# **Delivering on consumer needs across segments will require faster and more iterative concept development and more precise consumer segmentation.**
+
+Even in an environment defined by inflationary pressure and more deliberate spending, consumers in both mature and emerging markets8 continue to prioritize experiences that make their time feel well spent. In many cases, the desire for moments that feel meaningful, memorable, or restorative outweighs the instinct to cut back. 
+
+The long-term demand for experiences is clear. Between 2023 and 2025, the global experiences market grew 2.6 percent, similar to its pre-COVID-19 growth rate. Growth for nonessential goods, however, was only 0.8 percent over this period (compared with 2.3 percent from 2015 to 2019).  
+
+Travel tells a bigger growth story: The market for travel experiences (which includes tourism, flights, and lodging) grew 4.4 percent from 2023 to 2025, about the same rate as the prepandemic period. Growth in restaurants, another common experience-related category, has slowed compared with pre-COVID-19 levels (1.2 percent growth versus 2.2 percent). These shifts are reshaping how physical space is used and where businesses choose to invest. In 2025, US landlords leased more commercial space to service-oriented tenants than to traditional retailers, with wellness, fitness, and experiential concepts among the fastest-growing categories.9 
+
+At the same time, the boundaries of “experience” are expanding. Digital and at-home formats—from streaming to gaming to social platforms—are becoming legitimate substitutes or complements to in-person experiences, forcing companies to think beyond physical channels and toward a more integrated, omnichannel experience strategy. 
+
+Our survey data show that consumers are prioritizing experiences that make them feel connected, relaxed, or excited. Often, those feelings translate to a desire to splurge. When we asked consumers what they would do with an extra $200 to treat themselves, the most common response across age groups was “save it for a vacation.” Baby boomers were more likely to say this compared with Gen Zers (Exhibit 7). At-home experiences, meanwhile, are particularly appealing to younger consumers: 
+
+8  The experience economy is accelerating in emerging markets such as India, where rising incomes and a young, urban consumer base are driving strong demand for live events, travel, and entertainment. Recent reporting highlights a surge in concerts, festivals, and large-scale sporting events, with hotels and hospitality providers benefiting from higher occupancy and premium pricing tied to these experiences. 
+
+*9 Kate King, “America now has more spas and gyms than stores selling actual stuff,” Wall Street Journal, March 17, 2026. *
+
+## **The experience economy: Consumers prioritize meaning and memories**
+
+12 percent of Gen Zers say they would splurge on at-home entertainment, double the share of baby boomers who say the same. 
+
+To be sure, not all high-growth categories translate into splurge behavior. Health and wellness, despite its rising importance, was cited as a top splurge category by only about 8 percent of consumers overall, suggesting it functions more as a baseline priority than a discretionary indulgence. 
+
+Today’s experience economy underscores a divergence in consumer behavior. Some consumers are willing and able to spend on premium, high-value out-of-home experiences. Growth in luxury travel categories, for instance, outpaced the same nonluxury categories. The luxury hotel market grew nearly 6 percent from 2023 to 2025, compared with roughly 3.5 percent for hotels broadly. At the same time, respondents across generations say that cost remains the most important factor when making an experience-related purchase. This may be a contributing factor to why consumers are allocating a growing share of their time to activities such as digital entertainment, social media, and wellness routines, often in pursuit of lower-cost ways to achieve emotional benefits. 
+
+For consumer businesses, experiences could be a source of competitive differentiation. Some product-led companies are building experience ecosystems that are consistent across online and offline channels. Take POP MART, the toymaker behind the viral LABUBU character. Following the global LABUBU craze in 2025, which drove a surge in demand for its blind-box collectibles, the company doubled down on its Beijing theme park (which opened in 2023), adding a dedicated “LABUBU Forest” zone in May 2026 to capitalize on fan momentum. Early performance has been strong, with high attendance and merchandise-led monetization reinforcing the park as an extension of its intellectual property flywheel. The company plans to expand the model in China and overseas, potentially with adjacent hotels. 
+
+Exhibit 7 
+
+Web <2026> <State of Consumer> 
+
+xhib t <7> of <9> 
+
+Top categories for consumer splurging, 2026,1 % of respondents (n = 4,863) 
+
+1Question: “Imagine you have an extra $200 to treat yourself or splurge on something nice. What are you most likely to spend it on?” Source: State of Consumer Survey 2026, Mar 31–Apr 8, 2026 (n = 4,863; Gen Z, n = 929; millennials, n = 1,353; Gen X, n = 1,113; boomers, n = 1,448) 
+
+Consumers said they would most likely spend extra cash on experiences over goods. 
+
+McKinsey & Company 
+
+Gen Z 
+
+18 
+
+11 
+
+10 
+
+12 
+
+9 
+
+13 
+
+9 
+
+15 
+
+Millennials 
+
+22 
+
+10 
+
+10 
+
+8 
+
+11 
+
+11 
+
+8 
+
+17 
+
+Gen X 
+
+30 
+
+14 
+
+8 
+
+9 
+
+10 
+
+6 
+
+15 
+
+5 
+
+Boomers 
+
+34 
+
+20 
+
+5 6 5 
+
+8 
+
+13 
+
+6 
+
+Overall 
+
+Experiences 
+
+Goods 
+
+27 
+
+14 
+
+8 
+
+7 
+
+8 
+
+10 
+
+6 
+
+15 
+
+4 
+
+Vacation 
+
+Dining out 
+
+Out-of-home entertainment 
+
+At-home entertainment 
+
+Health and wellness 
+
+Apparel/footwear/accessories 
+
+Personal care/beauty 
+
+Home goods/kids 
+
+Other 3 4 
+
+3 
+
+4
+
+The goal of any experience format is not only to deepen consumer engagement but also to reinforce a distinct brand identity through memorable, repeatable experiences. The gummy candy brand Trolli, owned by Ferrara, has partnered with a major gaming company for five years to create branded in-game content and hosting an immersive takeover at the gaming convention PAX East. (Partnerships, in particular, offer an efficient way to test and scale experiences, allowing brands to embed themselves in relevant moments without the capital intensity of building stand-alone experiences.) The collaboration helps Trolli drive brand awareness and engagement in the virtual world while also giving consumers immersive real-world experiences. 
+
+The consumers in our survey consistently say that when choosing experiences, they prioritize factors such as spending quality time with others, relaxation, excitement, and learning. Companies should be explicit about which of these dimensions they intend to deliver. Without that clarity, experience investments risk becoming superficial and yielding a poor return. Companies should also set clear, measurable brand objectives—such as increased awareness and product trials—for any experience they design. 
+
+# **The goal of any experience format is not only to deepen consumer engagement but also to reinforce a distinct brand identity through memorable, repeatable experiences.**
+
+## **The resourceful consumer: Sustained price pressure leads to savvier spending **
+
+Rising prices remain the top concern for most consumers globally. The prolonged cost-of-living squeeze, driven not only by inflation but also by broader macroeconomic forces such as geopolitical instability and energy price volatility, has led more than three-quarters of consumers to continue engaging in some form of trade-down behavior, though how they do so differs by category. When purchasing essentials, consumers tend to optimize within the category—switching brands, adjusting pack sizes, or seeking promotions. In discretionary categories, consumers are increasingly changing how and whether they buy things at all. 
+
+What began as a set of coping mechanisms has evolved into something more structural. Rather than relying solely on blunt cost-cutting actions or the typical trade-down behaviors, many consumers are learning more creative ways to stretch their budgets: buying secondhand, re-creating services themselves, and extending the life of the products they already own. For some consumers, being resourceful has become a point of pride. The popularity of “buy nothing” campaigns on social media—in which consumers publicly pledge to avoid making purchases for a set period—highlights the social signaling and cultural cachet associated with consuming less.  
+
+Eighty-two percent of consumers globally say they are using items longer before replacing them,  69 percent are repairing products rather than discarding them, and 68 percent say they are actively reducing waste (Exhibit 8). 
+
+Alternative consumption models, such as the recommerce10 market, are gaining momentum. Thirty percent of consumers say they purchase apparel secondhand, and more than 20 percent say the same across categories, while nearly half report “DIYing” services they previously paid for (such as basic home repairs, haircuts, or beauty treatments). 
+
+Younger consumers, in particular, are engaging in these behaviors. Half of Gen Zers actively seek DIY inspiration online, particularly from influencers focused on stretching budgets, and half report purchasing secondhand every two to three months. But their motivation extends beyond simple cost 
+
+10  Recommerce refers to the buying and selling of previously owned, refurbished, or used goods through physical or digital channels, including resale marketplaces, peer-to-peer platforms, consignment, and trade-in or buyback programs offered by retailers or brands.
+
+Exhibit 8 
+
+Web <2026> <State of Consumer> 
+
+xhibit <8> of <9> 
+
+Actions taken by consumers to spend wisely,1 % of respondents 
+
+1Question: “Thinking about what you do to spend money wisely, please share the extent each of these statements apply to you?” % of respondents choosing “I do this sometimes” and “I do this a lot.” Source: State of Consumer Survey 2026, Mar 31–Apr 8, 2026 (n = 4,863; Gen Z, n = 929; millennials, n = 1,353; Gen X, n = 1,113; boomers, n = 1,448) 
+
+Trade-down behaviors are pervasive, and younger generations lead the way on resale and DIY. 
+
+McKinsey & Company 
+
+Boomer OverallMillennial Gen XGen Z 
+
+0 20 40 60 80 100 
+
+I use items longer before replacing 
+
+Spending less and buying smarter 
+
+Extend lifespan of purchase 
+
+I try to repair items instead of replacing them 
+
+I deload my pantry 
+
+I avoid large/very expensive purchases 
+
+Replacing with alternatives 
+
+I set spending limits on my cards 
+
+I canceled or downgraded subscriptions 
+
+I go to secondhand shops 
+
+I use resale websites to buy secondhand items 
+
+I use budgeting apps or trackers 
+
+I follow inuencers for tips 
+
+I DIY some services I used to pay for 
+
+I search for DIY inspiration on social media 
+
+I swap products or services with others 
+
+savings. For some consumers, it is a way to access higher-quality or more premium products within the same budget. And for many—particularly younger consumers—it is also about finding unique items or experiencing the “thrill of the hunt” (Exhibit 9). 
+
+These motivations also help explain a counterintuitive finding: Trading down is no longer a behavior confined to lower-income households. Higher-income consumers—who account for a disproportionate share of total spending in most markets—are also adopting “make do” habits, not out of necessity but by choice. In our survey, more high-income consumers than low-income consumers say they have adopted selective “optimization” behaviors—such as DIYing services, seeking DIY inspiration online, and using budgeting tools. And in the luxury fashion market, resale is becoming increasingly mainstream, attracting both aspirational luxury consumers and established luxury clients. 
+
+This dynamic points to a broader evolution of the “value now” consumer. Even consumers with the capacity to spend are applying greater scrutiny to when and where they do so. Rather than pulling back uniformly, they are becoming more selective and intentional: trading down in some categories,11 
+
+11  While opting for a private-label product is characterized as a trade-down behavior, consumers in our research often tell us they consider these products to be of equal or greater quality to comparable branded products.
+
+Exhibit 9 Web <2026> <State of Consumer> 
+
+xhibit <9> of <9> 
+
+Main reasons for purchasing secondhand products,1 % of respondents 
+
+1Question: “What are the main reasons you purchase products secondhand?” Respondents could select more than 1 response. Source: State of Consumer Survey 2026, Mar 31–Apr 8, 2026 (n = 4,863; Gen Z, n = 929; millennials, n = 1,353; Gen X, n = 1,113; boomers, n = 1,448) 
+
+The experience of shopping secondhand appeals more to Gen Z than baby boomers, while price motivates boomers more. 
+
+McKinsey & Company 
+
+Boomer OverallMillennial Gen XGen Z 
+
+0 20 40 60 80 100 
+
+Cheaper than buying new 
+
+Great bargains/heavily discounted items 
+
+Premium brand items at a lower price 
+
+More sustainable/better for the environment 
+
+Can nd unique vintage/one-of-a-kind pieces 
+
+Experience of hunting for special nds 
+
+Access to items from past seasons/sold-out items 
+
+Negotiating prices directly with sellers 
+
+Prefer buying from individuals 
+
+extracting more value from purchases, and reserving splurges for moments that feel justified. In this sense, resourcefulness is not simply a response to a constraint but a broader recalibration of value. 
+
+For businesses, this trend creates a more complex playing field. Competing on price alone is insufficient; consumers are optimizing across multiple dimensions of value—up-front cost, as well as durability, versatility, and the ability to repair or resell a product over time. 
+
+More companies are now viewing resale as an entry point for new consumers and a way to reinforce brand value. Offering a $150 secondhand handbag creates a pathway for consumers who cannot afford the $600 full-price version. Trade-in and buyback programs—adopted by apparel brands such as Patagonia and Levi’s—as well as brand-owned or peer-to-peer resale platforms, are allowing companies to participate more directly in this ecosystem. Another approach is enabling resale through digital product passports and partnerships that support authentication and recirculation,12 as the clothing brand Another Tomorrow has done. This requires a shift in how companies design and position products: emphasizing durability, craftsmanship, and “multilife” use cases so that items retain value and are explicitly seen as resalable investments. 
+
+Of course, resale markets are only one source of pressure on incumbent consumer brands. Value players are rapidly raising the bar across price points in their respective categories. In the United Kingdom, for example, fast-growing grocery discount retailers such as Aldi and Lidl have forced incumbents to rethink their pricing, product quality, assortment, and cost structure. Similar dynamics are playing out across categories, from fashion to consumer electronics. The implication is straightforward but challenging: Delivering value requires continuous progress in giving consumers more for less, year after year. 
+
+12  A digital product passport is a unique digital identifier (for example, a QR code) linked to a product that stores information on its origin, materials, and ownership history, enabling authentication and easier resale through brand or third-party platforms.
+
+Value is now a core management priority for nearly all consumer-facing businesses. Value-first thinking starts with removing unnecessary costs from products and operations—whether by offering fewer but better-designed SKUs, tightening control over input costs, or reengineering products to improve durability and usability while lowering production expense. The focus on value also elevates the roles of functions like procurement, product development, and supply chain, which are often best positioned to reduce costs without eroding product quality. Companies should also continuously test whether they can pass these gains back to consumers—through lower prices, improved quality, or both—rather than absorbing them entirely into margins. 
+
+Technology and sustained cost pressures are changing the value calculus for consumers and, in turn, the sources of competitive advantage for companies. Brand equity, scale, and distribution remain important but no longer guarantee success. Advantage increasingly depends on how effectively companies operate across a more complex ecosystem of platforms, partners, and consumer touchpoints, and how well they create value for shoppers. The companies that outperform will be those that adapt their models accordingly: showing up prominently in social-media-based and agentic environments, reshaping portfolios to meet more specific consumer needs, creating experiences that reinforce brand meaning, and designing offerings that reflect a more nuanced definition of value. In short: Consumers are evolving. How will you? 
+
+# **About the authors **
+
+Anna Pione is a partner in McKinsey’s New York office, where Danielle Bozarth is a senior partner; Clarisse Magnin is a senior partner in the Paris office; Jessica Moulton is a senior adviser in the London office; and Kari Alldredge is a partner in the Minneapolis office. 
+
+The authors wish to thank Alina Holzer, Biljana Cvetanovski, Colleen Baum, Ezra Greenberg, Jessie Ping, John Medalsy, Kelsey Robinson, Meng Zhang, Nadya Snezhkova, Pedro Fernandes, and Ruowen Meng for their contributions to this report. 
+
+This report was edited by Alexandra Mondalek, an editor in the New York office. 
+
+ June 2026 Images: © Getty Images Copyright © McKinsey & Company www.McKinsey.com 
+
+ @McKinsey   @McKinsey
